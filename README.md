@@ -1,5 +1,7 @@
 # Madini Mishra — Portfolio
 
+Personal portfolio website.
+
 A single-page portfolio site: HTML/CSS/vanilla JS, no build step or dependencies.
 
 ## Project structure
